@@ -122,14 +122,6 @@ Verify the SSH key is configured correctly and that the `inventory.yml` file poi
 
 ---
 
-## **Video Recording**
-1. Explain the project structure (`inventory.yml`, `playbook.yml`, and any additional scripts).
-2. Show how the playbook runs.
-3. Validate the applied configurations on the remote server.
-4. Conclude with an explanation of maintenance and updates.
-
----
-
 ## **Conclusion**
 This project demonstrates how to use Ansible to automate infrastructure configuration. Its modular design allows for easy addition or modification of configurations, making it ideal for managing multiple servers efficiently.
 
